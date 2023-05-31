@@ -17,7 +17,7 @@ class Main {
   }
 
   // method check if string is null or empty
-  public static String isNullEmpty(String str) {
+  public static String isNullEmpty(String str)  {
 
     // check if string is null
     if (str == null) {
